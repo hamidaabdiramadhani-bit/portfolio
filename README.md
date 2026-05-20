@@ -19,4 +19,5 @@ Mobile friendly layout
 
 live website
 
-https://hamidaabdiramadhani.github.io/portfolio/
+
+https://github.com/hamidaabdiramadhani-bit/portfolio/
